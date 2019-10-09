@@ -1,4 +1,4 @@
 package factory.pizza;
 
-public class NyStylePepperoniPizza extends Pizza{
+public class NyStylePepperoniPizza {
 }

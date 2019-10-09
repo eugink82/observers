@@ -20,5 +20,5 @@ public abstract class PizzaStore {
         return pizza;
     }
 
-    protected abstract Pizza createPizza(String type);
+    public abstract Pizza createPizza(String type);
 }
