@@ -11,7 +11,7 @@ public abstract class Beverage {
         return description;
     }
 
-    abstract Number cost();
+    abstract double cost();
 
     public void setSize(int size){
         this.size=size;
