@@ -1,5 +1,7 @@
 package iteratorAndComposite;
 
+import iteratorAndComposite.composite.MenuItem;
+
 import java.util.Calendar;
 import java.util.Iterator;
 

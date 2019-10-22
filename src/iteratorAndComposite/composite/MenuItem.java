@@ -1,4 +1,4 @@
-package iteratorAndComposite;
+package iteratorAndComposite.composite;
 
 public class MenuItem {
     private String name;

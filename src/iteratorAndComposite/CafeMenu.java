@@ -1,10 +1,12 @@
 package iteratorAndComposite;
 
+import iteratorAndComposite.composite.MenuItem;
+
 import java.util.HashMap;
 import java.util.Iterator;
 
 public class CafeMenu implements Menu {
-    HashMap<String,MenuItem> menuItems=new HashMap();
+    HashMap<String, MenuItem> menuItems=new HashMap();
 
     public CafeMenu() {
     }

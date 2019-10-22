@@ -1,5 +1,7 @@
 package iteratorAndComposite;
 
+import iteratorAndComposite.composite.MenuItem;
+
 import java.util.Iterator;
 
 public class DinnerMenuIterator  implements Iterator {
