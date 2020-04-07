@@ -21,4 +21,8 @@ public class GarageDoor {
     public void ddd(){
 
     }
+
+    public void ddd2(){
+
+    }
 }
