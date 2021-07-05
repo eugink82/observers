@@ -17,4 +17,12 @@ public class GarageDoor {
     public void lightOff(){
 
     }
+
+    public void ddd(){
+
+    }
+
+    public void ddd2(){
+
+    }
 }

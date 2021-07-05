@@ -31,4 +31,7 @@ public class Murzilka  implements Press{
             o.handleEvent(number);
         }
     }
+    
+    private void tef(){
+    }
 }
